@@ -10,8 +10,8 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/)
 
-<h2>Link to LinkedIn profile:</h2>
-
+<h2>LinkedIn Profile:
 [<img align="left" alt="Steffan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+</h2>
 
 [linkedin]: https://linkedin.com/in/
