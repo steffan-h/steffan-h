@@ -5,13 +5,11 @@
 - <b>🦘 osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/steffan-h/osticket_instal)
   - [osTicket: Post-Installation Configuration](https://github.com/steffan-h/osticket_post_instal)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/)
 - <b>🐱‍💻 Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/steffan-h/act_dir)
 
-<h2>LinkedIn Profile:
-<img alt="Steffan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<h2>
+<a href="https://www.linkedin.com/in/steffan-hanson-3b3063292/">
+  <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 </h2>
-
-[linkedin]: https://linkedin.com/in/
