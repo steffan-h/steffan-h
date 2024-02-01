@@ -8,8 +8,3 @@
 - <b>🐱‍💻 Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/steffan-h/act_dir)
 
-<h2>
-<a href="https://www.linkedin.com/in/steffan-hanson-3b3063292/">
-  <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-</h2>
